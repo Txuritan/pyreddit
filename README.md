@@ -1,6 +1,8 @@
 # pyreddit
 A Python (3.6) built Reddit sub image downloader
 
+Might not work, mainly the loop system
+
 ### Requirements
 Install with pip
   * blitzdb
